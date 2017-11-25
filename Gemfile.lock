@@ -132,6 +132,8 @@ GEM
     jekyll-theme-hacker (0.1.0)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-lanyon (1.0.0)
+      jekyll (~> 3.3)
     jekyll-theme-leap-day (0.1.0)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -217,7 +219,9 @@ DEPENDENCIES
   github-pages
   jekyll (= 3.5.2)
   jekyll-feed (~> 0.6)
+  jekyll-theme-lanyon
   jekyll-theme-midnight
+  minima (~> 2.0)
   tzinfo-data
 
 BUNDLED WITH
